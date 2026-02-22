@@ -29,7 +29,7 @@ export const education = [
     degree: "S1 Informatika",
     institution: "Institut Teknologi Del – Laguboti, Sumatera Utara",
     duration: "Sep 2023 – Present",
-    gpa: "2.8 / 4.0"
+    gpa: "2.9 / 4.0"
   }
 ];
 
