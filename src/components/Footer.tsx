@@ -8,14 +8,7 @@ const Footer: React.FC = () => {
     <footer className="bg-gray-900 text-light py-4 text-center border-top border-secondary mt-auto">
       <Container>
         <div className="d-flex justify-content-center mb-3">
-          <a
-            href="https://github.com/christia006"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-gray-400 mx-3 hover-icon"
-          >
-            <FaGithub size={28} />
-          </a>
+       
           <a
             href="mailto:chutahaean372@gmail.com"
             className="text-gray-400 mx-3 hover-icon"
