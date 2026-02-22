@@ -61,7 +61,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h6 className="fw-semibold text-secondary mb-0">GitHub</h6>
                   <a
-                    href="https://github.com/christia006"
+                    href=""
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-decoration-none text-info small"
