@@ -60,14 +60,7 @@ const Contact: React.FC = () => {
                 <FaGithub className="text-primary fs-4 me-3" />
                 <div>
                   <h6 className="fw-semibold text-secondary mb-0">GitHub</h6>
-                  <a
-                    href=""
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-decoration-none text-info small"
-                  >
-                    christia006
-                  </a>
+                 
                 </div>
               </div>
               <div className="d-flex align-items-center">
